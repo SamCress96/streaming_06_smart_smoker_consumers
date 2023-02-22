@@ -1,6 +1,6 @@
 """
     This program receives messages from the Food2 queue the RabbitMQ server.
-    The program produces an alert when food temperature has stalled (hasn't increased by at least 1 degree in 20 minutes.)  
+    The program produces an alert when food temperature has stalled (hasn't increased by at least 1 degree in 10 minutes.)  
    
     Author: Samantha Cress
     Based on code by Dr. Denise Case
